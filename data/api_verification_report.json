@@ -1,0 +1,10 @@
+{
+    "can_institutional_account_call_python_api_directly": false,
+    "os_platform": "Linux",
+    "csmarapi_package_installed": true,
+    "personal_csmar_credentials_configured": true,
+    "institutional_gateway_url": "https://login.must.edu.mo/login?service=https%3a%2f%2flogin.libezproxy.must.edu.mo%2flogin%3fqurl%3dezp.2aHR0cHM6Ly9nbG9iYWwuY3NtYXIuY29tLw--",
+    "target_ezproxy_url": "https://global.csmar.com/",
+    "csmar_login_ready": false,
+    "api_call_test_status": "CSMAR_LOGIN_REJECTED: This account cannot be logged in this website."
+}

@@ -1,0 +1,11 @@
+# CSMAR Python API Dependencies (IMPORTANT: ONLY install websocket-client, do NOT install obsolete `websocket` 0.2.1!)
+urllib3>=1.26.0
+websocket-client>=1.5.0
+pandas>=1.5.0
+prettytable>=3.5.0
+
+# Data Cleaning, Feature Engineering, Excel Reading & School CAS Verification
+numpy>=1.23.0
+openpyxl>=3.0.10
+requests>=2.28.0
+selenium>=4.8.0

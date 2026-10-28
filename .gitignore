@@ -1,0 +1,17 @@
+git-push.sh
+git-config.txt
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+.DS_Store
+*.pdf
+*.log
+config.json
